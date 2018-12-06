@@ -1,0 +1,12 @@
+.solitaire-game-board{
+  background: #34a249;
+  min-height: 100vh;
+}
+
+.bottom-bar-container {
+	display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

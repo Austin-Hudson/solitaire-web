@@ -1,0 +1,7 @@
+.deck-panel {
+	background: #2b7b3b;
+	height: 150px;
+	display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
